@@ -1,0 +1,22 @@
+SPS-{offset_master}
+
+Offset : 1443101 - S
+Offset : 529269 - P
+Offset : 2283980 - S
+
+Offset : 199112 - '-'
+Offset : 2608463 - '{'
+Offset : 2463972 - o
+Offset : 141041 - f
+Offset : 797387 - f
+Offset : 2127684 - s
+Offset : 49673 - e
+Offset : 3943773 - t
+Offset : 2403764 - '_'
+Offset : 4571713 - m
+Offset : 847866 - a
+Offset : 940970 - s
+Offset : 16723 - t
+Offset : 167230 - e
+Offset : 467230 - r
+Offset : 467250 - }
